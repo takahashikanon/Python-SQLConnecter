@@ -1,6 +1,5 @@
 import MySQLdb
 
-
 class SQLConnecter:
     @property
     def cursor(self):
